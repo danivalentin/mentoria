@@ -2,8 +2,8 @@
 
 namespace App\Http\Controllers;
 
-use App\cliente;?
 use Illuminate\Http\Request;
+use App\cliente;
  
 
 class clienteController extends Controller
