@@ -8,7 +8,7 @@
         {{csrf_field()}}
         <div class="col-lg-3">
             <div class="form-group">
-                <label for="nome"> Digite o nome</label>
+                <label for="nome"> Digite o nome-nome</label>
                 <input type="text" name="nome" placeholder="Digite o nome" class="form-control">
             </div>
             <div class="form-group">
