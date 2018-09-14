@@ -12,6 +12,6 @@ package br.com.git;
 public class App {
     
     public static void main(String[] args) {
-        System.out.println("Testando git atravé do netbeans");
+        System.out.println("Testando git atravé do netbeans 8.2");
     }
 }
